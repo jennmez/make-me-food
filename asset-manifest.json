@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/make-me-food/static/css/main.75df9f48.chunk.css",
+    "main.js": "/make-me-food/static/js/main.d087c939.chunk.js",
+    "main.js.map": "/make-me-food/static/js/main.d087c939.chunk.js.map",
+    "runtime-main.js": "/make-me-food/static/js/runtime-main.7544fad1.js",
+    "runtime-main.js.map": "/make-me-food/static/js/runtime-main.7544fad1.js.map",
+    "static/js/2.ae0adbed.chunk.js": "/make-me-food/static/js/2.ae0adbed.chunk.js",
+    "static/js/2.ae0adbed.chunk.js.map": "/make-me-food/static/js/2.ae0adbed.chunk.js.map",
+    "index.html": "/make-me-food/index.html",
+    "precache-manifest.6599f74afdd2773fafc8f2c698d5d117.js": "/make-me-food/precache-manifest.6599f74afdd2773fafc8f2c698d5d117.js",
+    "service-worker.js": "/make-me-food/service-worker.js",
+    "static/css/main.75df9f48.chunk.css.map": "/make-me-food/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.ae0adbed.chunk.js.LICENSE.txt": "/make-me-food/static/js/2.ae0adbed.chunk.js.LICENSE.txt",
+    "static/media/mintbean.png": "/make-me-food/static/media/mintbean.cf18b629.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7544fad1.js",
+    "static/js/2.ae0adbed.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.d087c939.chunk.js"
+  ]
+}
